@@ -1,5 +1,5 @@
 ---
-{"title":"Homepage|─=≡Σ(((つ•̀ω•́)つ","dg-publish":true,"dg-home":true,"permalink":"/Hi there/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Homepage|─=≡Σ(((つ•̀ω•́)つ","dg-publish":true,"dg-home":true,"permalink":"/hi-there/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 这里是正在准备的主页~
