@@ -1,5 +1,5 @@
 ---
-{"title":"Poem|沉默的白盒子","dg-publish":true,"dg-home":true,"permalink":"/poem/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"Poem|沉默的白盒子","permalink":"/poem/","dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 我躺进冰冷冷的白盒子
