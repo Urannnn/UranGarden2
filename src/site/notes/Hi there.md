@@ -2,7 +2,7 @@
 {"title":"Homepage|─=≡Σ(((つ•̀ω•́)つ","dg-publish":true,"dg-home":true,"permalink":"/Hi there/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-这里是正在准备的主页~
+这里是正在准备的主页
 ===
 ![1717-04.png](https://img.xhacgn.com/images/2023/08/31/1717-04.png)
 
