@@ -1,3 +1,6 @@
 .giscus {
     max-width: 700px
+    margin-left: auto; /* 将左外边距设置为自动，实现水平居中对齐 */
+    margin-right: auto; /* 将右外边距设置为自动，实现水平居中对齐 */
+    text-align: center; /* 内部内容居中对齐 */
 }
