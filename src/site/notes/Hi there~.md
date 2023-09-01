@@ -1,5 +1,5 @@
 ---
-{"title":"Homepage|QAQ","dg-publish":true,"dg-home":true,"tags":["homepage","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/Hi there~/","dgPassFrontmatter":true,"created":"","updated":""}
+{"title":"Homepage|QAQ","dg-publish":true,"dg-home":true,"tags":["homepage","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/Hi there~/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 这里是主页
@@ -24,4 +24,4 @@
 qq: 3621990891
 mail:a3621990891@foxmail.com
 ```
-*<u>写于2023年9月2日</u>
+<u>写于2023年9月2日</u>
