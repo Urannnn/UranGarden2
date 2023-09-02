@@ -4,7 +4,7 @@
 
 这里是主页
 ===
-![1717-04.png](https://img.xhacgn.com/images/2023/08/31/1717-04.png)
+![icon.png](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/a2b60fedfbfc8f4d2dc4f8b0e4c867ae6b851763.png)
 
 **无论你从什么渠道来到这，
 你好呀~**
