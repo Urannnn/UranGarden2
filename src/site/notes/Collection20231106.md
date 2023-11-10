@@ -30,7 +30,7 @@
 ## 图床和外链工具
 - [Fantasy ACG 图床: 免注册](https://img.xhacgn.com/)
 - [Bilibili 图床(Github): 部署为浏览器插件的图床，几乎无缺点](https://github.com/liuchuana/BilibiliPicBed)
-- [薄荷图床: 带限制，免注册，稳定](https://riyugo.com/index.php
+- [薄荷图床: 带限制，免注册，稳定](https://riyugo.com/index.php)
 ## 百科
 - [萌娘百科: 万物皆可萌的百科全书](https://zh.moegirl.org.cn/Mainpage)
 - [维基百科: 自由的百科全书](https://zh.wikipedia.org)
