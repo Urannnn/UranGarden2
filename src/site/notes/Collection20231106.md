@@ -54,6 +54,7 @@
 - [星夜小游戏平台](https://xingye.me/game/index.php)
 - [反向词典](https://wantwords.net/)/[深言达意: 找词找句](https://www.shenyandayi.com/)
 - [Gartic.io: 你画我猜](https://gartic.io/)
+- [Emoji大全](https://www.emojiall.com)
 
 
 ---
