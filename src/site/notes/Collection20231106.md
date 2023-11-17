@@ -10,6 +10,7 @@
 - [Wallhaven: 壁纸/图片，即时浏览](https://wallhaven.cc/)
 - [Netease_Music: 听会儿歌](https://music.163.com/)
 - [Myfreemp3: 下点歌](https://tool.liumingye.cn/music/?page=searchPage#/)
+- [Apple Music Downloader: 下点专辑](https://aaplmusicdownloader.com/)
 - [文库下载助手: 下点文档](https://imwcr.cn/api/GetDocumentText/)
 - [时间胶囊: 藏点东西](http://p.timepill.net/)
 - [在线OCR: 快捷好用免费](https://ocr.wdku.net/)
