@@ -48,7 +48,6 @@
 - [MidiShow: 领先的MIDI音乐交流与下载网站](https://www.midishow.com/)
 - [AiShort(ChatGPT Shortcut): 简单易用的 AI 快捷指令表，让生产力倍增！](https://www.aishort.top/)
 - [ChatPDF: Chat with any PDF!](https://www.chatpdf.com/)
-- [Csgola: CSGO中文磨损网](https://www.csgola.com/)
 - [アボガド6](https://www.avogado6.com/)
 - [The Zen Zone](https://thezen.zone/)
 - [星夜小游戏平台](https://xingye.me/game/index.php)
