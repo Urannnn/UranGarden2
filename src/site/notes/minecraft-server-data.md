@@ -4,6 +4,8 @@
 
 ## 服务器近期存档数据:
 [server20240205.mcworld](https://sakuradrive.com/f/zDWNjfb/server20240205.mcworld)
+## 种子信息（查询地形用）
+[chunkbase.com/apps/seed-map#-8389627067957577681](https://www.chunkbase.com/apps/seed-map#-8389627067957577681)
 
 ---
 开着玩的，这个版面有什么相加的东西直接qq跟我说
