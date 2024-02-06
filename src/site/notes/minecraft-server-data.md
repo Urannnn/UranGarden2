@@ -3,9 +3,15 @@
 ---
 
 ## 服务器近期存档数据:
-[server20240205.mcworld](https://sakuradrive.com/f/zDWNjfb/server20240205.mcworld)
+[server20240206.mcworld[123.8M]](https://sakuradrive.com/f/Qn7rXUL/server20240206.mcworld)
 ## 种子信息（查询地形用）
-[chunkbase.com/apps/seed-map#-8389627067957577681](https://www.chunkbase.com/apps/seed-map#-8389627067957577681)
+[seed: 8389627067957577681](https://www.chunkbase.com/apps/seed-map#-8389627067957577681)
+## 资源包&行为包
+[资源包&行为包.zip[6.6M]](https://sakuradrive.com/f/yqVOehP/%E8%B5%84%E6%BA%90%E5%8C%85+%E8%A1%8C%E4%B8%BA%E5%8C%85.zip)
+## 服务器信息
+服务器地址:lanhai6.xyz
+端口:46387
+基岩版
 
 ---
 开着玩的，这个版面有什么相加的东西直接qq跟我说
