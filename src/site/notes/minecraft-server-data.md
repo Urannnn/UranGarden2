@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/minecraft-server-data/","title":"Uranuser's minecraft server","created":"","updated":""}
+{"dg-publish":true,"permalink":"/minecraft-server-data/","title":"Uranuser's Minecraft-Server | OwO","created":"","updated":""}
 ---
 
 ## 服务器近期存档数据:
-[server20240206.mcworld[123.8M]](https://sakuradrive.com/f/Qn7rXUL/server20240206.mcworld
+[server20240206.mcworld[123.8M]](https://sakuradrive.com/f/Qn7rXUL/server20240206.mcworld)
+[server20240210.mcworld[129.2M]](https://sakuradrive.com/f/8oG6Nik/server20240210.mcworld)
 
 ## 种子信息（查询地形用）
 [seed: 8389627067957577681](https://www.chunkbase.com/apps/seed-map#-8389627067957577681)
-
 ## 资源包&行为包
 [资源包&行为包.zip[6.6M]](https://sakuradrive.com/f/yqVOehP/%E8%B5%84%E6%BA%90%E5%8C%85+%E8%A1%8C%E4%B8%BA%E5%8C%85.zip)
 ### 内容:
