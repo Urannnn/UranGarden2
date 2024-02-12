@@ -5,7 +5,7 @@
 ## 服务器近期存档数据:
 [server20240206.mcworld[123.8M]](https://sakuradrive.com/f/Qn7rXUL/server20240206.mcworld)
 [server20240210.mcworld[129.2M]](https://sakuradrive.com/f/8oG6Nik/server20240210.mcworld)
-
+[server20240212.mcworld[128.8M]](https://sakuradrive.com/f/M5p5qsx/server20240212.mcworld)
 ## 种子信息（查询地形用）
 [seed: 8389627067957577681](https://www.chunkbase.com/apps/seed-map#-8389627067957577681)
 ## 资源包&行为包
