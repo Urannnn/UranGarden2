@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Urans｜Homepage","tags":["gardenEntry"],"created":"2024-02-19T10:27:12.313+08:00","updated":"2024-05-11T21:19:53.792+08:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Urans｜Homepage","tags":["gardenEntry"],"created":"2025-06-20T01:11:14.000+08:00","updated":"2025-06-20T01:16:07.546+08:00"}
 ---
 
-你好呀，这里是我自己维护的博客（笨拙）。
-网名是 *Uranuser*, 网站的域名如此。
-本人还在读高中，是个心有余力不足的学生。
-~~很可能多年以后网站目录依然一片空白~~
-爱好互联网技术，平日会看点书。
-
-随便看看吧...( — —)ノ｜
-
+在忙，先把这里修改了。
 
 ---
 ## 关于网站
